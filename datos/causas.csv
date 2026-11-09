@@ -1,0 +1,11 @@
+expediente,materia,partes,tipo_acto,fecha_audiencia,hora,estado,fecha_limite_plazo
+EXP-101,Familiar,Quispe c/ Flores - Asistencia Familiar,Audiencia Unica,2026-11-09,09:00,Pendiente,2026-11-10
+EXP-102,Civil,Vargas c/ Mamani - Usucapion,Inspeccion Ocular,2026-11-09,11:00,Pendiente,2026-11-15
+EXP-103,Laboral,Rojas c/ Constructora Sur - Beneficios,Audiencia Preliminar,2026-11-10,10:00,Pendiente,2026-11-11
+EXP-104,Familiar,Cruz c/ Padilla - Guarda Legal,Para Sentencia,2026-11-12,15:00,En Despacho,2026-11-09
+EXP-105,Civil,Banco Sol c/ Torrez - Ejecucion Coactiva,Para Resolucion,2026-11-13,16:00,En Despacho,2026-11-09
+EXP-106,Familiar,Mendez c/ Castro - Divorcio,Audiencia Ratificatoria,2026-11-10,14:30,Pendiente,2026-11-20
+EXP-107,Familiar,Diaz c/ Loayza - Incremento Pension,Audiencia Unica,2026-11-11,09:30,Pendiente,2026-11-12
+EXP-108,Civil,Choque c/ Alarcon - Mejor Derecho,Inspeccion Ocular,2026-11-11,15:00,Pendiente,2026-11-18
+EXP-109,Laboral,Serrano c/ Clinica Los Angeles - Reincorporacion,Para Sentencia,2026-11-14,11:00,En Despacho,2026-11-10
+EXP-110,Familiar,Pinto c/ Saavedra - Homologacion,Para Resolucion,2026-11-09,16:30,En Despacho,2026-11-08
